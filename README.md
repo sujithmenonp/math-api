@@ -8,10 +8,11 @@
 6. Created models for requests and responses
 7. Added integration tests and units tests using JUnit and mockito
 8. Added Spring Security with Basic Authentication with in-memory authentication
+9. Dockerized the app
 
 //TODO
-1. Dockerize the app
-2. LDAP integration instead of im-memory
+
+2. LDAP/DB integration instead of im-memory
 3. Decide on deployment strategy
 4. Have a service discovery mechanism
 5. Add Log Statements
